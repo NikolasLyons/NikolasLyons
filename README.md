@@ -9,7 +9,8 @@ My name is Nik Lyons and i am currently working on finishing my full-stack Softw
 
 -- 👯 I’m looking to expand my knowledge in the tech industry and learn as much as i can as a softwear developer.
 
--- 📫 How to reach me on the following platforms: LinkedIn
-    Email: nikolas.lyons23@gmail.com
+-- 📫 How to reach me on the following platforms: 
+-LinkedIn: www.linkedin.com/in/nik-lyons-9b3a37194
+-Email: nikolas.lyons23@gmail.com
 
 --⚡️ Fun facts: I used to be a kid Model in Calinfronia. I was in a Old Navy and JC Penny cataloge!!
