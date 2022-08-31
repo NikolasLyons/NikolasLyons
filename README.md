@@ -1,16 +1,16 @@
 ### Hi there 💪🏾
 
 
-My name is Nik Lyons and i am currently working on finishing my full-stack Software developer certificate. I enjoy a challenege that forces m,e to thing outside of the box to find a solution.My people skill is great and i love metting and interacting with people everyday. Making conversation come naturally to me and its easy for me connect with someone. Im a huge into sports especcially football.I grew up playing and watching it and it will forever be engraved in my life🏈
+My name is Nik Lyons and I am currently a Full-stack Software Developer. I enjoy a challenege that forces me to think outside of the box to find a solution. I am very personable and love metting and interacting with people everyday. Making conversation comes naturally to me and its easy for me connect with someone. Im a huge into sports especcially football. I grew up playing and watching it and it will forever be engraved in my life🏈
 
--- 🎓  I graduated from The College of Idaho with a bachalers degree in Exercise Physiology. i also have 3 minors: Espanol, history and coaching.
+-- 🎓  I graduated from The College of Idaho with a bachalers degree in Exercise Physiology. I also have 3 minors: Spanish, History and Coaching.
 
--- 🌱 I’m currently learning MVC and Relationships between different data types
+-- 🌱 I’m currently using React, Vue, C#, and Node.Js
 
--- 👯 I’m looking to expand my knowledge in the tech industry and learn as much as i can as a softwear developer.
+-- 👯 I’m looking to expand my knowledge in the tech industry and learn as much as I can as a softwear developer.
 
 -- 📫 How to reach me on the following platforms: 
 -LinkedIn: www.linkedin.com/in/nik-lyons-9b3a37194
 -Email: nikolas.lyons23@gmail.com
 
---⚡️ Fun facts: I used to be a kid Model in Calinfronia. I was in a Old Navy and JC Penny cataloge!!
+--⚡️ Fun facts: I used to be a kid Model in California. I was in a Old Navy and JC Penny cataloge!!
