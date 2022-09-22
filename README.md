@@ -10,7 +10,7 @@ My name is Nik Lyons and I am currently a Full-stack Software Developer. I enjoy
 -- 👯 I’m looking to expand my knowledge in the tech industry and learn as much as I can as a softwear developer.
 
 -- 📫 How to reach me on the following platforms: 
--LinkedIn: www.linkedin.com/in/nik-lyons-9b3a37194
+-LinkedIn: https://www.linkedin.com/in/niklyons/
 -Email: nikolas.lyons23@gmail.com
 
 --⚡️ Fun facts: I used to be a kid Model in California. I was in a Old Navy and JC Penny cataloge!!
